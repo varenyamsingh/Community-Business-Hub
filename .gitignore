@@ -1,0 +1,22 @@
+# Compiled Java output and packaged builds
+/build/
+/bin/
+/dist/
+*.class
+
+# NetBeans user-specific files and build output
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# IntelliJ IDEA local project files
+/.idea/
+
+# Logs and JVM crash reports
+*.log
+hs_err_pid*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
